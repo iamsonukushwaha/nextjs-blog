@@ -12,7 +12,8 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>[Your Self Introduction]</p>
+        <p>I'm from India, born and raised in Gopalganj, a sunny place in the state of Bihar.<br/>
+        A computer science student, Passionate reader.<br/> Eager to find the root cause of problems. For fun, I like to ride my motorcycle and follow my home cricket team. <br/> <br/> You can follow me on <a href="https://twitter.com/sonukumarkush12">twitter</a> </p>
         <p>
           (This is a sample website - you’ll be building a site like this in{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
